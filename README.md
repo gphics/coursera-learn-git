@@ -1,1 +1,1 @@
-# coursera-learn-git
+# Repository for practicing git learned on Coursera
